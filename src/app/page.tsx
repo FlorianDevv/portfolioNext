@@ -96,8 +96,8 @@ export default function Page() {
 						>
 							<ResumeCard
 								key={education.name}
-								href={education.href}
-								logoUrl={education.logoUrl}
+								href={undefined}
+								logoUrl={""}
 								altText={education.name}
 								location={education.location}
 								title={education.name}
@@ -134,7 +134,7 @@ export default function Page() {
 									Découvrez mes derniers travaux
 								</h2>
 								<p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-									J'ai travaillé sur une variété de projets, des sites web
+									J&apos;ai travaillé sur une variété de projets, des sites web
 									simples aux applications web complexes. Voici mes preferés.
 								</p>
 							</div>
@@ -175,8 +175,8 @@ export default function Page() {
 							<p className="mx-auto max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
 								Vous souhaitez me parler ? Envoyez-moi simplement un message
 								privé sur LinkedIn, je vous répondrai dès que possible. Vous
-								pouvez également me contacter par email à l'adresse suivante :{" "}
-								<b>{DATA.contact.email}</b>
+								pouvez également me contacter par email à l&apos;adresse
+								suivante : <b>{DATA.contact.email}</b>
 							</p>
 						</div>
 					</BlurFade>
