@@ -7,7 +7,7 @@ export const DATA = {
 	url: "https://dillion.io",
 	location: "Annecy, France",
 	locationLink: "https://www.google.com/maps/place/annecy",
-	description: "Développeur Full Stack. J'aime construire des applications web",
+	description: "Développeur Full Stack passionné, spécialisé dans le développement d'applications web;",
 	summary:
 		"Étudiant passionné par la programmation 💻, avec un vif désir d'apprendre et de créer 🎨. Je possède une solide base en développement front-end et back-end 🖥️, détaillée dans la section compétences.Ma préférence se porte sur le développement front-end, notamment grâce à mon intérêt pour Next.js et ses performances exceptionnelles ⚡. Curieux des dernières innovations technologiques 🚀, je m'efforce constamment de me tenir informé et d'adopter les meilleures technologies disponibles, tant pour le développement que pour les outils du quotidien, y compris pour l'intelligence artificielle ✨.",
 	avatarUrl: "/me.png",
