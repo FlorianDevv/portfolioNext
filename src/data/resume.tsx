@@ -32,7 +32,7 @@ export const DATA = {
 	],
 	navbar: [{ href: "#projects", icon: CodeIcon, label: "Projects" }],
 	contact: {
-		email: "florian.pichon71@gmail.com",
+		email: "fpichon.pro@gmail.com",
 		social: {
 			GitHub: {
 				name: "GitHub",
